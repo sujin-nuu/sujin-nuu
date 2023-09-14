@@ -1,4 +1,4 @@
-<h1>Sujin Kim</h1>
+<h1 align='center'>Sujin Kim</h1>
 
 <h2 align='center'>Skillfully Used</h2>
 
