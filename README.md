@@ -28,7 +28,7 @@
 
 <p align='center'>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/randroid-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp
