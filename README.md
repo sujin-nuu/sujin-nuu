@@ -37,6 +37,10 @@
 <h2 align='center'>Skills that I'm Studying</h2>
 
 <p align='center'>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>&nbsp 
+</p>
+<p align='center'>
   <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/webgl-990000?style=flat-square&logo=webgl&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/webrtc-333333?style=flat-square&logo=webrtc&logoColor=white"/>&nbsp 
