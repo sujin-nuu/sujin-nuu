@@ -37,6 +37,7 @@
 <h2 align='center'>Skills that I'm Studying</h2>
 
 <p align='center'>
+  <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>&nbsp 
 </p>
