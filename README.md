@@ -24,25 +24,9 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp 
 </p>
 <br/>
-<h2 align='center'>Used at least once</h2>
-
-<p align='center'>
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp
-</p>
 
 <h2 align='center'>Skills that I'm Studying</h2>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>&nbsp 
-</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/webgl-990000?style=flat-square&logo=webgl&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/webrtc-333333?style=flat-square&logo=webrtc&logoColor=white"/>&nbsp 
 </p>
