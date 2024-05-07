@@ -28,5 +28,6 @@
 <h2 align='center'>Skills that I'm Studying</h2>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C++&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>&nbsp
 </p>
