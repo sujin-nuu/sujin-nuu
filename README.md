@@ -32,3 +32,7 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>&nbsp
 </p>
+<br/><br/>
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=sujin-nuu&show_icons=true&theme=radical" />
+</p>
