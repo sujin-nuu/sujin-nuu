@@ -1,5 +1,8 @@
 <h1 align='center'>Sujin Kim</h1>
-
+  <div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-nuu&layout=donut&show_icons=true&theme=material-palenight&hide_border=false&bg_color=141321&icon_color=58A6FF&text_color=a9fef7&title_color=fe428e&count_private=true&exclude_repo=Face-Transfer-Application"/>
+  </div>
+<div>
 <h2 align='center'>Skillfully Used</h2>
 
 <p align='center'>
@@ -24,6 +27,7 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp 
 </p>
 <br/>
+</div>
 
 <h2 align='center'>Skills that I'm Studying</h2>
 
@@ -33,6 +37,3 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>&nbsp
 </p>
 <br/><br/>
-<p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=sujin-nuu&show_icons=true&theme=radical" />
-</p>
